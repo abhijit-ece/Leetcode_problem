@@ -23,6 +23,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Linked List
+<details>
+<summary>Click to expand Linked List problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 82 | [Remove Duplicates from Sorted List II](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II/) | Medium |
+
+</details>
+
+
 ### Math
 <details>
 <summary>Click to expand Math problems</summary>
