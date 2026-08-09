@@ -19,7 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
-| 1140 | [Stone Game II](./Array/Stone%20Game%20II/) | Medium |
+| 1140 | [Stone Game II](./Array/Stone%20Game%20II/) | Easy |
 
 </details>
 

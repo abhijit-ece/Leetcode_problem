@@ -1,0 +1,22 @@
+
+        if (dp[i][m] != 0) {
+            return dp[i][m];
+        }
+
+        if (i + 2 * m >= n) {
+            return dp[i][m] = suffix[i];
+        }
+
+        int best = 0;
+
+        for (int x = 1; x <= 2 * m; x++) {
+
+            int current = suffix[i]
+                    - solve(i + x, Math.max(m, x), piles);
+
+            best = Math.max(best, current);
+        }
+
+        return dp[i][m] = best;
+    }
+}
