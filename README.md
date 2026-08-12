@@ -92,6 +92,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 110 | [Balanced Binary Tree](./Tree/Balanced%20Binary%20Tree/) | Easy |
+| 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
 
 </details>
 
