@@ -80,6 +80,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Tree
+<details>
+<summary>Click to expand Tree problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
