@@ -5,94 +5,61 @@
 
 ## Problem Statement
 
-You are given a string word containing distinct lowercase English letters.
+<p>You are given a string <code>word</code> containing <strong>distinct</strong> lowercase English letters.</p>
 
-Telephone keypads have keys mapped with distinct collections of lowercase English letters, which can be used to form words by pushing them. For example, the key 2 is mapped with ["a","b","c"], we need to push the key one time to type "a", two times to type "b", and three times to type "c" .
+<p>Telephone keypads have keys mapped with <strong>distinct</strong> collections of lowercase English letters, which can be used to form words by pushing them. For example, the key <code>2</code> is mapped with <code>[&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]</code>, we need to push the key one time to type <code>&quot;a&quot;</code>, two times to type <code>&quot;b&quot;</code>, and three times to type <code>&quot;c&quot;</code> <em>.</em></p>
 
-It is allowed to remap the keys numbered 2 to 9 to distinct collections of letters. The keys can be remapped to any amount of letters, but each letter must be mapped to exactly one key. You need to find the minimum number of times the keys will be pushed to type the string word.
+<p>It is allowed to remap the keys numbered <code>2</code> to <code>9</code> to <strong>distinct</strong> collections of letters. The keys can be remapped to <strong>any</strong> amount of letters, but each letter <strong>must</strong> be mapped to <strong>exactly</strong> one key. You need to find the <strong>minimum</strong> number of times the keys will be pushed to type the string <code>word</code>.</p>
 
-Return the minimum number of pushes needed to type word after remapping the keys.
+<p>Return <em>the <strong>minimum</strong> number of pushes needed to type </em><code>word</code> <em>after remapping the keys</em>.</p>
 
-An example mapping of letters to keys on a telephone keypad is given below. Note that 1, *, #, and 0 do not map to any letters.
-
- 
-Example 1:
-
-Input: word = "abcde"
-Output: 5
-Explanation: The remapped keypad given in the image provides the minimum cost.
-"a" -> one push on key 2
-"b" -> one push on key 3
-"c" -> one push on key 4
-"d" -> one push on key 5
-"e" -> one push on key 6
+<p>An example mapping of letters to keys on a telephone keypad is given below. Note that <code>1</code>, <code>*</code>, <code>#</code>, and <code>0</code> do <strong>not</strong> map to any letters.</p>
+<img alt="" src="https://assets.leetcode.com/uploads/2023/12/26/keypaddesc.png" style="width: 329px; height: 313px;" />
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2023/12/26/keypadv1e1.png" style="width: 329px; height: 313px;" />
+<pre>
+<strong>Input:</strong> word = &quot;abcde&quot;
+<strong>Output:</strong> 5
+<strong>Explanation:</strong> The remapped keypad given in the image provides the minimum cost.
+&quot;a&quot; -&gt; one push on key 2
+&quot;b&quot; -&gt; one push on key 3
+&quot;c&quot; -&gt; one push on key 4
+&quot;d&quot; -&gt; one push on key 5
+&quot;e&quot; -&gt; one push on key 6
 Total cost is 1 + 1 + 1 + 1 + 1 = 5.
 It can be shown that no other mapping can provide a lower cost.
+</pre>
 
-
-Example 2:
-
-Input: word = "xycdefghij"
-Output: 12
-Explanation: The remapped keypad given in the image provides the minimum cost.
-"x" -> one push on key 2
-"y" -> two pushes on key 2
-"c" -> one push on key 3
-"d" -> two pushes on key 3
-"e" -> one push on key 4
-"f" -> one push on key 5
-"g" -> one push on key 6
-"h" -> one push on key 7
-"i" -> one push on key 8
-"j" -> one push on key 9
+<p><strong class="example">Example 2:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2023/12/26/keypadv1e2.png" style="width: 329px; height: 313px;" />
+<pre>
+<strong>Input:</strong> word = &quot;xycdefghij&quot;
+<strong>Output:</strong> 12
+<strong>Explanation:</strong> The remapped keypad given in the image provides the minimum cost.
+&quot;x&quot; -&gt; one push on key 2
+&quot;y&quot; -&gt; two pushes on key 2
+&quot;c&quot; -&gt; one push on key 3
+&quot;d&quot; -&gt; two pushes on key 3
+&quot;e&quot; -&gt; one push on key 4
+&quot;f&quot; -&gt; one push on key 5
+&quot;g&quot; -&gt; one push on key 6
+&quot;h&quot; -&gt; one push on key 7
+&quot;i&quot; -&gt; one push on key 8
+&quot;j&quot; -&gt; one push on key 9
 Total cost is 1 + 2 + 1 + 2 + 1 + 1 + 1 + 1 + 1 + 1 = 12.
 It can be shown that no other mapping can provide a lower cost.
+</pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
- 
-Constraints:
+<ul>
+	<li><code>1 &lt;= word.length &lt;= 26</code></li>
+	<li><code>word</code> consists of lowercase English letters.</li>
+	<li>All letters in <code>word</code> are distinct.</li>
+</ul>
 
-
-	1 <= word.length <= 26
-	word consists of lowercase English letters.
-	All letters in word are distinct.
-
-## Examples
-
-```
-Input: word = "abcde"
-Output: 5
-Explanation: The remapped keypad given in the image provides the minimum cost.
-"a" -> one push on key 2
-"b" -> one push on key 3
-"c" -> one push on key 4
-"d" -> one push on key 5
-"e" -> one push on key 6
-Total cost is 1 + 1 + 1 + 1 + 1 = 5.
-It can be shown that no other mapping can provide a lower cost.
-
-Input: word = "xycdefghij"
-Output: 12
-Explanation: The remapped keypad given in the image provides the minimum cost.
-"x" -> one push on key 2
-"y" -> two pushes on key 2
-"c" -> one push on key 3
-"d" -> two pushes on key 3
-"e" -> one push on key 4
-"f" -> one push on key 5
-"g" -> one push on key 6
-"h" -> one push on key 7
-"i" -> one push on key 8
-"j" -> one push on key 9
-Total cost is 1 + 2 + 1 + 2 + 1 + 1 + 1 + 1 + 1 + 1 = 12.
-It can be shown that no other mapping can provide a lower cost.
-```
-
-## Constraints
-
-- 1 <= word.length <= 26
-- word consists of lowercase English letters.
-- All letters in word are distinct.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
