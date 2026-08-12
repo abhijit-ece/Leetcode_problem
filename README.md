@@ -38,6 +38,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 82 | [Remove Duplicates from Sorted List II](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II/) | Medium |
+| 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 
 </details>
 
