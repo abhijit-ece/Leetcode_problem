@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 1140 | [Stone Game II](./Array/Stone%20Game%20II/) | Easy |
 | 1260 | [Shift 2D Grid](./Array/Shift%202D%20Grid/) | Easy |
+| 1331 | [Rank Transform of an Array](./Array/Rank%20Transform%20of%20an%20Array/) | Easy |
 | 1979 | [Find Greatest Common Divisor of Array](./Array/Find%20Greatest%20Common%20Divisor%20of%20Array/) | Easy |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./Array/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) | Medium |
 
