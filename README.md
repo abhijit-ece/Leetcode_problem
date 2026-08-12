@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 1140 | [Stone Game II](./Array/Stone%20Game%20II/) | Easy |
+| 1260 | [Shift 2D Grid](./Array/Shift%202D%20Grid/) | Easy |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./Array/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) | Medium |
 
 </details>
