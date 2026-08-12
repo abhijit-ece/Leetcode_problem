@@ -49,6 +49,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 3014 | [Minimum Number of Pushes to Type Word I](./Math/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) | Easy |
 | 3345 | [Smallest Divisible Digit Product I](./Math/Smallest%20Divisible%20Digit%20Product%20I/) | Easy |
