@@ -45,6 +45,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
+| 3658 | [GCD of Odd and Even Sums](./Math/GCD%20of%20Odd%20and%20Even%20Sums/) | Easy |
 
 </details>
 
