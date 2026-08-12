@@ -26,6 +26,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1464 | [Maximum Product of Two Elements in an Array](./Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) | Easy |
 | 1979 | [Find Greatest Common Divisor of Array](./Array/Find%20Greatest%20Common%20Divisor%20of%20Array/) | Easy |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./Array/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) | Medium |
+| 3731 | [Find Missing Elements](./Array/Find%20Missing%20Elements/) | Easy |
 
 </details>
 
