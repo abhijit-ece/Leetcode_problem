@@ -23,6 +23,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
+| 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 1140 | [Stone Game II](./Array/Stone%20Game%20II/) | Easy |
 | 1260 | [Shift 2D Grid](./Array/Shift%202D%20Grid/) | Easy |
