@@ -49,7 +49,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 82 | [Remove Duplicates from Sorted List II](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II/) | Medium |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
-| 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
+| 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Easy |
 
 </details>
 
