@@ -96,6 +96,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 99 | [Recover Binary Search Tree](./Tree/Recover%20Binary%20Search%20Tree/) | Medium |
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
 | 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
