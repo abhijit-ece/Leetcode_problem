@@ -42,6 +42,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Depth-First Search
+<details>
+<summary>Click to expand Depth-First Search problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 3310 | [Remove Methods From Project](./Depth-First%20Search/Remove%20Methods%20From%20Project/) | Medium |
+
+</details>
+
+
 ### Linked List
 <details>
 <summary>Click to expand Linked List problems</summary>
