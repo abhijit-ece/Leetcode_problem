@@ -37,6 +37,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2213 | [Longest Substring of One Repeating Character](./Array/Longest%20Substring%20of%20One%20Repeating%20Character/) | Hard |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./Array/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) | Medium |
 | 3069 | [Distribute Elements Into Two Arrays I](./Array/Distribute%20Elements%20Into%20Two%20Arrays%20I/) | Easy |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](./Array/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) | Hard |
 | 3731 | [Find Missing Elements](./Array/Find%20Missing%20Elements/) | Easy |
 
 </details>
