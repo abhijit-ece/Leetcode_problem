@@ -41,6 +41,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3471 | [Find the Largest Almost Missing Integer](./Array/Find%20the%20Largest%20Almost%20Missing%20Integer/) | Easy |
 | 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
 | 3731 | [Find Missing Elements](./Array/Find%20Missing%20Elements/) | Easy |
+| 3838 | [Weighted Word Mapping](./Array/Weighted%20Word%20Mapping/) | Easy |
 
 </details>
 
