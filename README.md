@@ -38,6 +38,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./Array/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) | Medium |
 | 3069 | [Distribute Elements Into Two Arrays I](./Array/Distribute%20Elements%20Into%20Two%20Arrays%20I/) | Easy |
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](./Array/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) | Hard |
+| 3471 | [Find the Largest Almost Missing Integer](./Array/Find%20the%20Largest%20Almost%20Missing%20Integer/) | Easy |
 | 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
 | 3731 | [Find Missing Elements](./Array/Find%20Missing%20Elements/) | Easy |
 
